@@ -1,3 +1,10 @@
+
+---
+title: "Research Summary"
+excerpt:""Practicum Project Literature Review" 
+collection: portfolio
+---
+
 **Topic: Time series forecasting for precipitation/rainfall**
 
 **Relevant Research Paper \#1** : *Time Series Analysis Model for Rainfall Data in Jordan: Case Study for Using Time Series Analysis*
