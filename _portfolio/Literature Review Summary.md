@@ -1,7 +1,6 @@
-
 ---
 title: "Research Summary"
-excerpt:""Practicum Project Literature Review" 
+excerpt: "Literature Review for the practicum project"
 collection: portfolio
 ---
 
