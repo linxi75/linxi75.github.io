@@ -10,11 +10,13 @@ The INDRA project, sponsored by Columbia University's QMSS program and AltSurya 
 ## Technologies Used
 - [Python]
 - [GitHub]
-- 
+  
 ## Dataset Access
 The dataset used for this project is available in the projects/cloudburst directory. You can download it directly using the following link:
 [Download Dataset CSV](/assets/projects/cloudburst/hourly_data_complete.csv)
 
 ## Recourses
-- 📄 [Download Final Report (PDF)](/assets/projects/cloudburst/Final report.pdf)
-- 💻 [View Code Notebook (Jupyter)](/assets/projects/cloudburst/ Cloudburst prediction.ipynb)
+- 📄 [Download Final Report (PDF)](/assets/projects/cloudburst/Final%20report.pdf)
+- 💻 [View Code Notebook (Jupyter)](/assets/projects/cloudburst/%20Cloudburst%20prediction.ipynb)
+  
+  
