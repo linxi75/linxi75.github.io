@@ -25,24 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "Yue(Linda) Xi"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
   location         : "New York"
   employer         : "Columbia University"
-  uri              : # URL
   email            : "yx2721@columbia.edu" 
 
-  # Academic websites
-  arxiv            : # URL
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username 
   codepen          : # Username
   dribbble         : # Username
   github           : "linxi75"
@@ -50,7 +38,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
